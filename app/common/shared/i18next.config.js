@@ -23,7 +23,8 @@ export const languageList = [
   {name: 'Ukrainian', code: 'uk', original: 'Українська'},
 ];
 
-export const fallbackLng = 'en';
+// export const fallbackLng = 'en';
+export const fallbackLng = 'zh-CN';
 
 export const commonI18NextOptions = {
   // debug: true,
